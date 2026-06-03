@@ -24,13 +24,13 @@ A RAG (Retrieval-Augmented Generation) application built using LangChain, Stream
 
 The following screenshots show the working of the application from PDF upload to AI-generated answers.
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot1.jpeg)
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot2.jpeg)
 
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](screenshots/screenshot3.jpeg)
 
-![Screenshot 4](screenshots/screenshot4.png)
+![Screenshot 4](screenshots/screenshot4.jpeg)
 
 ## Run Project
 
