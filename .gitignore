@@ -1,0 +1,6 @@
+venv/
+.venv/
+vectorstore/
+temp.pdf
+.env
+__pycache__/
